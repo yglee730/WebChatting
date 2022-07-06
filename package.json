@@ -1,0 +1,22 @@
+{
+  "name": "chatting",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yglee730/WebChatting.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "yglee730",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yglee730/WebChatting/issues"
+  },
+  "homepage": "https://github.com/yglee730/WebChatting#readme"
+}
